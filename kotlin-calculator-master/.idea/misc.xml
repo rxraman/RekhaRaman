@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/rekha/Downloads/kotlin-calculator-master/app/src/main/res/layout/fragment_input.xml" value="0.1160081053698075" />
+        <entry key="..\:/Users/rekha/Downloads/kotlin-calculator-master/app/src/main/res/layout/main_activity.xml" value="0.1160081053698075" />
+        <entry key="..\:/Users/rekha/Downloads/kotlin-calculator-master/app/src/main/res/layout/main_fragment.xml" value="0.1160081053698075" />
+        <entry key="app/src/main/res/layout/fragment_input.xml" value="0.29147555586220564" />
+        <entry key="app/src/main/res/layout/main_activity.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/main_fragment.xml" value="0.19610507246376813" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
